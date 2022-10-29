@@ -1,0 +1,93 @@
+[
+    {
+        "ID": 1,
+           "nombre": "JHONNY BURGER",
+           "precioUnitario": 190,
+           "ImgSrc":"https://s3-eu-central-1.amazonaws.com/bk-uy-demo.menu.app/wp-media-folder-burger-king-uruguay//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/27/HAMBURGUESA.png"
+           
+       },
+       {   
+           "ID": 2,
+           "nombre": "DOBLE QUESO ",
+           "precioUnitario": 220,
+           "ImgSrc":"https://s3-eu-central-1.amazonaws.com/www.burgerking.com.uy/wp-media-folder-bk-uruguay//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/27/Doble-queso-1.png"
+       },
+       {   
+           "ID": 3,
+           "nombre": "NAPOLITANA",
+           "precioUnitario": 220,
+           "ImgSrc":"https://s3-eu-central-1.amazonaws.com/bk-uy-demo.menu.app/wp-media-folder-burger-king-uruguay//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/27/WEB_Detail_Doble-Napolitano.png"
+       },
+       {   
+           "ID": 4,
+           "nombre": "BACON",
+           "precioUnitario": 200,
+           "ImgSrc":"https://s3-eu-central-1.amazonaws.com/bk-uy-demo.menu.app/wp-media-folder-burger-king-uruguay//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/27/BACON-DUO.png"
+       },
+       {   
+           "ID": 5,
+           "nombre": "DOBLE CHEDDAR",
+           "precioUnitario": 260,
+           "ImgSrc":"https://s3-eu-central-1.amazonaws.com/bk-uy-demo.menu.app/wp-media-folder-burger-king-uruguay//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/27/hamburguesa-DOBLE-CHEDDAR-BACON.png"
+       },
+       {   
+           "ID": 6,
+           "nombre": "CHEESE",
+           "precioUnitario": 280,
+           "ImgSrc":"https://s3-eu-central-1.amazonaws.com/bk-uy-demo.menu.app/wp-media-folder-burger-king-uruguay//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/27/WEB_Thumbnail_Long_Cheese.png"
+       },
+       {   
+           "ID": 7,
+           "nombre": "MEGA JHONNY",
+           "precioUnitario": 320,
+           "ImgSrc":"https://s3-eu-central-1.amazonaws.com/bk-uy-demo.menu.app/wp-media-folder-burger-king-uruguay//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/27/Mega-stacker-cheddar-x4.png"
+       },
+       {   
+           "ID": 8,
+           "nombre": "MEGA JHONNY 3",
+           "precioUnitario": 390,
+           "ImgSrc":"https://s3-eu-central-1.amazonaws.com/bk-uy-demo.menu.app/wp-media-folder-burger-king-uruguay//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/27/Mega-Stacker-x3.png"
+       },
+       {   
+           "ID": 9,
+           "nombre": "MEGA JHONNY 4",
+           "precioUnitario": 420,
+           "ImgSrc":"https://s3-eu-central-1.amazonaws.com/bk-uy-demo.menu.app/wp-media-folder-burger-king-uruguay//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/27/Mega-stacker-cheddar-x4.png"
+       },
+       {   
+           "ID": 10,
+           "nombre": "POLLO JHONNY ",
+           "precioUnitario": 290,
+           "ImgSrc":"https://s3-eu-central-1.amazonaws.com/bk-uy-demo.menu.app/wp-media-folder-burger-king-uruguay//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/27/POLLO-AMERICANO.png"
+       },
+       {   
+           "ID": 11,
+           "nombre": "NUGGETS ",
+           "precioUnitario": 190,
+           "ImgSrc":"https://s3-eu-central-1.amazonaws.com/bk-uy-demo.menu.app/wp-media-folder-burger-king-uruguay//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/27/WEB_Thumbnail_NUGGETSX10.png"
+       },
+       {   
+           "ID": 12,
+           "nombre": "PAPAS FRITAS BACON ",
+           "precioUnitario": 190,
+           "ImgSrc":"https://s3-eu-central-1.amazonaws.com/bk-uy-demo.menu.app/wp-media-folder-burger-king-uruguay//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/27/papas-supremas-cheddar-bacon.png"
+       },
+       {   
+           "ID": 13,
+           "nombre": "AROS BACON ",
+           "precioUnitario": 190,
+           "ImgSrc":"https://s3-eu-central-1.amazonaws.com/bk-uy-demo.menu.app/wp-media-folder-burger-king-uruguay//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/27/aros-supemos-cheddar-bacon.png"
+       },
+       {   
+           "ID": 14,
+           "nombre": "AGUA ",
+           "precioUnitario": 70,
+           "ImgSrc":"https://s3-eu-central-1.amazonaws.com/bk-uy-demo.menu.app/wp-media-folder-burger-king-uruguay//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/27/Botella-agua-sin-gas.png"
+       },
+       {   
+           "ID": 15,
+           "nombre": "REFRESCO ",
+           "precioUnitario": 90,
+           "ImgSrc":"https://s3-eu-central-1.amazonaws.com/bk-uy-demo.menu.app/wp-media-folder-burger-king-uruguay//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/27/pepsi-botella.png"
+       }
+    ]

@@ -1,0 +1,108 @@
+.contenedor{
+    display: grid;
+    grid-template-columns: 3fr 3fr;
+    grid-template-areas: 
+    "jumbo jumbo"
+    "productos carrito"
+    "error total"
+    "footer footer";
+    margin: 1;
+}
+ 
+ .jumbotron-fluid a{
+    color:white;
+    font-size: 20px;
+    font-weight: 300;
+    margin: auto;
+    flex-direction: row;
+    justify-content: space-between;
+    float: right;
+    overflow: hidden;
+   
+}
+.jumbotron-fluid a:hover{
+background-color: black;
+color:rgb(15, 15, 15);
+}
+#contact{
+    padding-left: 15px;
+    padding-right: 80px;
+    padding-bottom: 0px;
+}
+
+.span{
+    background-color:rgb(191, 191, 48);
+}
+.jumbotron-fluid{
+ 
+    width:100vw;
+    height:90vh;
+}
+.container{
+    margin:auto;
+    display: block;
+}
+.container h1{
+    text-align: center;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+
+}
+ 
+.table{
+    margin-top: 30vh;
+}
+.card img{
+    height: 300px;
+}
+
+.logo1 {
+margin: auto;
+width:500px;
+height: 400px;
+}
+
+.twitter {
+    text-align: center;
+    clear:both;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+
+}
+
+footer {
+    background-color: black;
+    color: yellow;
+}
+
+h2 {
+    color: yellow;
+    background-color: black;
+}
+
+h1 {
+
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: yellow;
+    background-color:black;
+}
+.button{
+    text-align: center;
+    background-color:black;
+    color: yellow;
+
+}
+
+section a {
+    color: black;
+    font-weight: bold;
+}
+
+.indice{
+    font-weight: bold;
+    padding: 3px;
+}
